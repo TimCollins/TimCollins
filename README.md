@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on asynchronous data access functionality using Azure Storage
+- 📚 I’m reading Kent Beck's [Test Driven Development by Example](https://www.goodreads.com/book/show/387190.Test_Driven_Development)
+- 👀 I’m interested in .NET Core and C# mostly but I also dabble in JavaScript from time to time as required
+- 🌱 I’m currently learning about recent C# language features such as [asynchronous streams](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/tutorials/generate-consume-asynchronous-stream)
+- ⚡ Fun fact: I like obscure quotes from The Simpsons. Oh and once I saw a blimp!
+
+
+
 <!--
 **TimCollins/TimCollins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
