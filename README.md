@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a wholesale database migration from a proprietary implementation to Azure SQL
-- 📚 I’m re-reading [Witches Abroad](https://www.goodreads.com/book/show/2442.Witches_Abroad) by Terry Pratchett
-- 👀 I’m interested in .NET Core and C# mostly but I also dabble in JavaScript from time to time as required
-- 🌱 I’m reading [MonoGame Mastery](https://www.amazon.co.uk/MonoGame-Mastery-Multi-Platform-Reusable-Engine/dp/1484263081) and attempting to use my C# knowledge to implement some very basic games
+- 🔭 I'm currently working on the implementation of a support ticketing system
+- 📚 I'm reading [Dodger](https://www.goodreads.com/book/show/13516846-dodger) by [Terry Pratchett](https://www.goodreads.com/author/show/1654.Terry_Pratchett)
+- 👀 I'm interested in .NET Core and C# mostly but I also dabble in JavaScript from time to time as required
+- 🌱 I'm working through some introductory tutorials for the [Godot Engine](https://godotengine.org/)
 - ⚡ Fun fact: I like obscure quotes from The Simpsons. Oh and once I saw a blimp!
 - 🖼️ I ❤️ the art of [HR Giger](https://hrgiger.com/)
-- 🎵 I’m currently listening to [Are you Dead Yet?](https://en.wikipedia.org/wiki/Are_You_Dead_Yet%3F) by [Children of Bodom](https://www.cobhc.com/)
+- 🎵 I'm currently listening to [Bellum Interruptum](https://mechinamusic.bandcamp.com/album/bellum-interruptum) by [Mechina](https://www.mechinamusic.com/)
 
 <!--
 **TimCollins/TimCollins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
